@@ -28,6 +28,7 @@ This plugin provides additional control with completed and failure events to han
 3. Bind events to the Completed and Failure outputs to handle the respective outcomes.
 
 ## Example
-![AdvancedMoveToLocation](images/img.png)
+![image](https://github.com/user-attachments/assets/802575ea-3f71-4fcd-8ac8-ba2c0b258d2a)
 
-![AdvancedMoveToLocation Request Result](images/img_1.png)
+![image](https://github.com/user-attachments/assets/189add3a-36e3-491e-aaf6-3f1fc8668bb3)
+
