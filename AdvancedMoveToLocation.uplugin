@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Advanced Move To Location",
+	"Description": "A module to handle advanced movement to a location.",
+	"Category": "AI",
+	"CreatedBy": "dyternal",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AdvancedMoveToLocation",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
