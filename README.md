@@ -2,8 +2,7 @@
 
 ## Overview
 
-The `AdvancedMoveToLocation` plugin is an advanced version of the Simple Move To Location node in Unreal Engine 5 projects.
-This plugin provides additional control with completed and failure events to handle the movement process.
+The `AdvancedMoveToLocation` plugin is an advanced version of the Simple Move To Location node in Unreal Engine 5 projects, which provides additional control with completed and failure events to handle the movement process.
 
 ## Features
 
